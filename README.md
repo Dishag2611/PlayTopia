@@ -49,7 +49,7 @@ Team Name: Naatu_Naatu_OscarWaale
 * [Kartikey Gupta](https://github.com/kartikey2991) 
 * [Silkie Agarwal](https://github.com/silkie261001) 
 * [Priya Pachauri](https://github.com/priyapac261) 
-* [Sarah Nasim](https://github.com/SarahN18) 
+* [Disha Gupta](https://github.com/Dishag2611) 
 
 ### Made at:
 <a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
